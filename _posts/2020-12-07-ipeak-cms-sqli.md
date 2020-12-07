@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "IPeak CMS Blind SQLi version 3.5"
+title:  "IPeakCMS SQLi"
+description: "IPeak CMS Blind SQLi version 3.5"
 tags: exploits bugbounty
 ---
   Hi there!, this will be short explaination of the vulnerability I've found at IPeakCMS 3.5 which is SQLi and it's Blind so let's begin ... 
