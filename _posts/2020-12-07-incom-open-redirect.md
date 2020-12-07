@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Incom 2.0 open redirect"
-description: Incom 2.0 is vulnerable to open redirect vulnerability... 
+title:  "IncomCMS 2.0 open redirect"
+description: IncomCMS 2.0 is vulnerable to open redirect vulnerability... 
 tags: exploits bugbounty
 ---
   Hi there!, this will be short explaination of the vulnerability I've found at Incom 2.0 (Latest version) which is open redirect ... 
