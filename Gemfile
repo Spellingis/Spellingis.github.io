@@ -5,5 +5,3 @@ gem "jekyll-tagging"
 gem "kramdown-parser-gfm"
 gem "jekyll-dash"
 
-
-gemspec
