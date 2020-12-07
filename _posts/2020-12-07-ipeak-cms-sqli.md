@@ -6,6 +6,8 @@ tags: exploits bugbounty
 ---
   Hi there!, this will be short explaination of the vulnerability I've found at IPeakCMS 3.5 which is SQLi and it's Blind so let's begin ... 
 
+### Discovered by : Mohammed Fadhl Al-Barbari aka @m4dm0e
+
 
 ### Vulnerable endpoint/script : `site.com/cms/print.php`
   
