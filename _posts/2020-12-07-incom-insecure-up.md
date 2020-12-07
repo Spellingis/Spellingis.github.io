@@ -6,6 +6,8 @@ tags: exploits bugbounty
 ---
   Hi there!, I've discovered endpoint that accepts any file and upload it without any validation or even being authentication 
 
+### Discovered by : Mohammed Fadhl Al-Barbari aka @m4dm0e
+
 
 ### Vulnerable endpoint/script : `site.com/incom/modules/uploader/showcase/script.php`
   
