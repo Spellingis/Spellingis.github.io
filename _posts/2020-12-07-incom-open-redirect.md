@@ -6,6 +6,7 @@ tags: exploits bugbounty
 ---
   Hi there!, this will be short explaination of the vulnerability I've found at Incom 2.0 (Latest version) which is open redirect ... 
 
+### Discovered by : Mohammed Fadhl Al-Barbari aka @m4dm0e
 
 ### Vulnerable endpoint/script : `site.com/go.php?go=EVIL.COM`
   
