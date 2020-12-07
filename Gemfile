@@ -6,3 +6,4 @@ gem "kramdown-parser-gfm"
 gem "jekyll-dash"
 
 
+gemspec
