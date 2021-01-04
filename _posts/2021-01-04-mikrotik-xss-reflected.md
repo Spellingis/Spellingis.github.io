@@ -7,6 +7,8 @@ Tags: exploits bugbounty
 
 **Author** Mohammed Al-Barbari aka [@m4dm0e](https://twitter.com/m4dm0e)
 
+**CVE-ID:** `CVE-2021-3014`
+
 **Summary:** There is XSS-Reflected at the Mikrotik hotspot login page.
 
 ![image](../../../assets/images/Screenshot_2021-01-04_20-35-15.png)
