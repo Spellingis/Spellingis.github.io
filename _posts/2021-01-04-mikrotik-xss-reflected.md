@@ -34,5 +34,5 @@ after the victim clicks on the submit button the XSS fires!
 Well, you have to be in the same network so you can play with this to get the admin user and password or cookies! also the users, with many techniques 
 
 **PoC** 
-There is a POC video that will share as soon as possible on my channel [GrodRiket Security](https://www.youtube.com/c/itgeeks)7
+There is a POC video that will share as soon as possible on my channel [GrodRiket Security](https://www.youtube.com/c/itgeeks)
 
