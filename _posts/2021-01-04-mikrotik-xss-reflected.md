@@ -9,8 +9,7 @@ Tags: exploits bugbounty
 
 **Summary:** There is XSS-Reflected at the Mikrotik hotspot login page.
 
-![image](../../../assets/images/Screenshot_2021-01-04_20-34-48.png)
-
+![image](../../../assets/images/Screenshot_2021-01-04_20-35-15.png)
 
 **Description:** In the hotspot login page there is hidden input called `target` with a blank value so you can add any value into it just by adding a new parameter with the value you want and it will be reflected in the page source
 e.g: `c.net/login?target=HelloAll`
@@ -28,7 +27,7 @@ page source :
 ```
 after the victim clicks on the submit button the XSS fires!
 
-![image](../../../assets/images/Screenshot_2021-01-04_20-35-15.png)
+![image](../../../assets/images/Screenshot_2021-01-04_20-34-48.png)
 
 
 **How to exploit this?** 
