@@ -8,6 +8,7 @@ tags: exploits bugbounty
 
 ### Discovered by : Mohammed Fadhl Al-Barbari aka @m4dm0e
 
+### CVE-ID : `CVE-2020-29597`
 
 ### Vulnerable endpoint/script : `site.com/incom/modules/uploader/showcase/script.php`
   
