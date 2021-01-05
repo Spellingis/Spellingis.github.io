@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "IncomCMS 2.0 insecure files upload"
+title:  "CVE-2020-29597 - IncomCMS 2.0 insecure files upload"
 description: IncomCMS 2.0 is vulnerable to insecure files upload
 tags: exploits bugbounty
 ---
