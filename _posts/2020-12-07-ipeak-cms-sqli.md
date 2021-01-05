@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "IPeakCMS SQLi"
+title:  "CVE-2021-3018 - IPeakCMS v3.5 SQLi"
 description: "IPeak CMS Blind SQLi version 3.5"
 tags: exploits bugbounty
 ---
