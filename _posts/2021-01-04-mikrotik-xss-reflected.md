@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MikroTik hotspot login XSS"
+title:  "CVE-2021-3014 - MikroTik hotspot login XSS"
 description: MikroTik hotspot login page is vulnerable to XSS-Reflected
 Tags: exploits bugbounty
 ---
