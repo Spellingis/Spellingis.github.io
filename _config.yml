@@ -1,9 +1,8 @@
-title: M0e
-author: Mohammed F. Al-Barbari
-email: moe@grodriket.com
+title: HF
+author: Handa Feleke
+email: handa.feleke@kippnash.org
 description: > # this means to ignore newlines until "show_exerpts:"
-  Hi there, I am Mohammed Fadhl Al-Barbari 18 y/o cyber security researcher , Web dev/tester, Mobile applications dev/tester, tools builder and Bugs hunter .
-  Hacker since 2015
+  Hi there, I am Handa Feleke 12 y/o Idiot , Script kiddie, and Bugs hunter . Hacker since 2019
 show_excerpts: false # set to true to show excerpts on the homepage
 
 paginate: 5
@@ -20,18 +19,12 @@ dash:
   date_format: "%b %-d, %Y"
 
   disqus:
-    shortname: m4dm0e-github-io
+    shortname: Spellingis-github-io
 
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
-    - url: https://twitter.com/m4dm0e
-      icon: twitter-square
-      color: green
-    - url: https://moe.grodriket.com
-      icon: itch-io
-      color: red
-    - url: https://github.com/m4dm0e
+    - url: https://github.com/Spellingis
       icon: github-square
       color: purple
 
@@ -51,4 +44,4 @@ plugins:
 
 # Replaces the default avatar provider (gravatar)
 avatar_source: github
-github_username: m4dm0e
+github_username: Spellingis
